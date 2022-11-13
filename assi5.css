@@ -1,0 +1,15 @@
+.parent {
+    height: 80px;
+}
+
+.punchline {
+    height: 40px;
+    font-size: 30px;
+    color: red;
+}
+
+.setup {
+    height: 40px;
+    font-size: 30px;
+    color: blue;
+}
